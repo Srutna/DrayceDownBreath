@@ -1,0 +1,2 @@
+.ai files for Adobe Illustrator
+.png files are sprites
