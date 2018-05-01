@@ -1,2 +1,10 @@
-.ai files for Adobe Illustrator
-.png files are sprites
+.ai files for adobe illustrator.
+.png are the actual files for sprite images.
+
+72p directory contains the images which are actually used in the game.
+
+these sprites will be used when character will be facing downward and won't move.
+
+Dimensions on GMS are 108 x 144 & the speed of frame moving is 4.
+
+origin 54 X 72 (middleCenter).
